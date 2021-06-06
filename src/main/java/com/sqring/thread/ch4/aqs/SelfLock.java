@@ -1,4 +1,4 @@
-package com.sqring.thread.ch4.condition;
+package com.sqring.thread.ch4.aqs;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
