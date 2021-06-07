@@ -43,3 +43,16 @@
 3. 其他安全问题
 4. 并发下的性能
 5. 线程安全的单例模式
+
+## 常见面试题
+1. HashMap和HashTable有什么区别？
+2. ConcurrentHashMap和HashTable同样是线程安全，他们在线程同步上有什么不同？
+3. HashMap&ConcurrentHashMap的区别？
+4. 为什么ConcurrentHashMap比HashTable效率要高？
+5. ConcurrentHashMap锁机制分析（JKD1.7 VS JDK1.8）？
+6. ConcurrentHashMap在JDK1.8中，为什么要使用synchronized来代替重入锁ReentrantLock？
+7. ConcurrentHashMap简单介绍？ConcurrentHashMap并发度是什么？
+
+
+
+
