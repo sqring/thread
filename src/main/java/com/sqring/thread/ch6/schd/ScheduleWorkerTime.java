@@ -1,6 +1,6 @@
 package com.sqring.thread.ch6.schd;
 
-import cn.enjoyedu.tools.SleepTools;
+import com.sqring.thread.SleepTools;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
